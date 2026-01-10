@@ -14,4 +14,4 @@ A lightweight Minecraft resource pack that replaces the **Golden Apple** and **E
 3. Move the pack **to the top of your resource pack list** to ensure it overrides vanilla textures.
 
 ## License
-This project is licensed under **CC-BY 4.0**.
+This project is licensed under **CC‑BY‑NC‑SA 4.0**.
