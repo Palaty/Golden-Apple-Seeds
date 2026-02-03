@@ -9,7 +9,7 @@ A lightweight Minecraft resource pack that replaces the **Golden Apple** and **E
 - Works on versions **1.20.4 – 1.21.11** (depending on pack format)
 
 ## Installation
-1. Download the correct version from the Releases page.
+1. Download the correct version from the Releases page or Modrinth:https://modrinth.com/project/gnKgdvta
 2. Place the ZIP file into your `.minecraft/resourcepacks` folder.
 3. Move the pack **to the top of your resource pack list** to ensure it overrides vanilla textures.
 
